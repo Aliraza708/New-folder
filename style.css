@@ -1,0 +1,28 @@
+.mar{
+    margin-bottom: 50px;
+    background-color:#6F2CF7;
+   
+}
+.mar ul li a{
+     color: white !important;
+}
+.mar ul li a:hover{
+    text-decoration: underline !important;
+    
+}
+.hover li a:hover{
+    color: black !important;
+}
+.but button{
+   background-color:#0E5ED6;
+   color:rgb(239, 239, 239);
+   margin-left: 10%;
+   border: none;
+   outline: none;
+}
+@media screen and (max-width:991px) {
+    .but button{
+        display: none;
+    }
+    
+}
